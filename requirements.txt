@@ -1,3 +1,4 @@
 pytrends
 google-generativeai
 appwrite
+requests
